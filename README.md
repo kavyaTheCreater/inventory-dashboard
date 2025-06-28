@@ -1,5 +1,6 @@
 Inventory Dashboard with Shadcn-UI
 
+
 A modern inventory management dashboard built with **React**, **TypeScript**, **Tailwind CSS**, and **Shadcn-UI** components.
 
 Features
@@ -8,6 +9,9 @@ Features
 -  Inventory CRUD: Add, edit, view, delete inventory items
 -  Componentized UI: Clean layout with Shadcn-UI
 -  Mock Data: Used for development/testing
+
+  🔗 **Live Demo**: [Click here to view the dashboard](https://mgx-xw2bmtbhkmn.mgx.world/#)
+
 
  Tech Stack
 
